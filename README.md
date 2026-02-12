@@ -2,7 +2,14 @@
         
 - <i>다각화하는 K-컬쳐 외국인 관광객 커뮤니티(정보) 플랫폼 개발 프로젝트</i>
 
-![Image](https://github.com/user-attachments/assets/103874b3-a4cc-41a5-bea0-07534acf2009)
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/6ca0939e-54e6-4f7a-98d6-0be752214912" />
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/d0ec68e3-c43c-40f7-9033-d53e55b83885" />
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/18d34173-c4f8-4e9c-8eab-39e1c4df94d8" />
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/d8f25ad4-68ea-4145-a1c2-b0f84f3d335e" />
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/fb28048c-b878-4a65-aa3f-2f6246ec34f8" />
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/dd83f40e-12c3-480b-949e-17718ca8fe33" />
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/db6d794a-c839-46bf-8ba0-6e87c68204c8" />
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/93908b6e-351c-4481-bff9-4ed1eb04a007" />
 
 - ####  기간 : (24.10.29~24.11.29)
 
